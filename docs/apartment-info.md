@@ -2,8 +2,9 @@ Hi Alice!
 
 Since I'm traveling and won't be available at all times when you use the apartment I've created this document to answer (hopefully) all of your possible questions. 
 
-## WiFi
+## Wi-Fi
 Name: `Greipfrukt`
+
 Password: `OsloIsAwesome`
 
 ## In case of emergency
