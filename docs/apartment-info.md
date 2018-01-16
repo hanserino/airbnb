@@ -1,3 +1,5 @@
+# Disenveien 27
+
 Hi Alice! 
 
 Since I'm traveling and won't be available at all times when you use the apartment I've created this document to answer (hopefully) all of your possible questions. 
@@ -6,7 +8,6 @@ Since I'm traveling and won't be available at all times when you use the apartme
 - Fire department: `111`
 - Police: `112`
 - Ambulance: `113`
-
 - Me/apartment owner (Hans Kristian): `+47 928 41 558`
 - My helpful neighbour Jamila: `‭+47 465 12 440‬`
 
@@ -15,6 +16,9 @@ The **fire extinguisher** is located underneath the kitchen table and the smoke 
 
 ## Kitchen
 Use whatever kitchen tools you want. There isn't a dishwasher, so please clean the dishes before you leave. 
+
+## Food
+There is a dedicated shelf in the fridge for you labeled with `AirBnb`. Feel free to eat whatever I've put there for you. 
 
 ## Stuff in the apartment
 Use my stuff as you like. If you use the record player or speakers, turn it down after 11 o'clock.
