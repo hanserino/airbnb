@@ -5,7 +5,7 @@ Since I'm traveling and won't be available at all times when you use the apartme
 ## Wi-Fi
 Name: `Greipfrukt`
 
-Password: `OsloIsAwesome`
+Password: `Yolo1234`
 
 ## In case of emergency
 - Fire department: `111`
