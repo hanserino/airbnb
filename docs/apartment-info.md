@@ -3,7 +3,7 @@ Hi Alice!
 Since I'm traveling and won't be available at all times when you use the apartment I've created this document to answer (hopefully) all of your possible questions. 
 
 ## Wi-Fi
-Name: `Greipfrukt`
+Name: `Grape_Fruit_Guest`
 
 Password: `Yolo1234`
 
