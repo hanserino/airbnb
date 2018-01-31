@@ -41,4 +41,6 @@ When returning, your bus stop is called `Aker Sykehus`.
 Bus tickets have to be bought through the [Ruter App](https://ruter.no/en/buying-tickets/mobile-ticket-app/). This ticket is also valid for the tram and subway. 
 
 # Helpful links
-- [Bus, tram and subway schedules](https://ruter.no/en/)
+- Bus, tram and subway schedules: https://ruter.no/en/
+
+
